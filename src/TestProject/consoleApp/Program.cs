@@ -2,8 +2,8 @@
 using consoleApp;
 
 Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
+Console.WriteLine("Hola mundo!");
+Console.WriteLine("Ciao mondo!");
 Console.WriteLine("Hello, rpt1");
 Console.WriteLine("Hello, rpt2");
 Console.WriteLine("Hello, rpt3");
